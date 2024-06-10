@@ -38,7 +38,7 @@ Without the outlier, the logistic regression shows a positive relationship betwe
 
 Regression with outlier removed:
 
-![image](https://github.com/CompassRose1/GoT_Battles/assets/63609420/bba6084c-a594-4bf0-b060-d75bfbd777cf)
+![image](https://github.com/CompassRose1/GoT_Battles/assets/63609420/90a6b4f0-2717-475f-9a34-b2fb3f356d84)
 
 
 Limitations: 
