@@ -42,7 +42,7 @@ Regression with outlier removed:
 
 
 Limitations: 
-Analysis is limited by the small number of battles in this dataset. Additionally, 60 percent of the battles were removed during processing due to lack of sufficient data. Further analysis would benefit from George R.R. Martin completing more books wtih additional battles to be analysed.
+Analysis is limited by the small number of battles in this dataset. Additionally, 60 percent of the battles were removed during processing due to lack of sufficient data. Further analysis would benefit from George R.R. Martin completing more books with additional battles to be analysed.
 
 Author: Cheryl Anthoney, PhD
 
