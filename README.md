@@ -34,8 +34,6 @@ After removing the outlier,  I received these results:
 
 Without the outlier, the logistic regression shows a positive relationship between the attacker size ratio and a predicted attacker win, which makes more intuitive sense. However, the results are still not significant.
 
-![image](https://github.com/CompassRose1/GoT_Battles/assets/63609420/c3752b7a-eef5-4f74-9c25-7665c6d75c29)
-
 Regression with outlier removed:
 
 ![image](https://github.com/CompassRose1/GoT_Battles/assets/63609420/90a6b4f0-2717-475f-9a34-b2fb3f356d84)
